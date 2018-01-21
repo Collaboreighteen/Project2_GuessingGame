@@ -1,0 +1,21 @@
+import random
+playAgain = 'y'
+while playAgain == 'y':
+    print('I\'m thinking of a number between one and ten.')
+    randomInt = random.randint(1,10)
+    playerStr = input('You have three chances, guess what number it is! ')
+    retries = 2
+    while randomInt != int(playerStr) and retries > 0:
+        if randomInt > int(playerStr):
+            playerStr = input('Nope, guess again, higher than that. ')
+            retries = retries - 1
+        else:
+            playerStr = input('Nope, guess again, lower than that. ')
+            retries = retries - 1
+    if randomInt == int(playerStr):
+        print('Yup! I was thinking ' + playerStr + '!')
+    else:
+        print('Sorry, that\'s your three guesses, I was thinking ' + str(randomInt) + '.')
+    playAgain = input('Play again? (y/n) ')
+    while playAgain != 'y' and playAgain != 'n':
+        playAgain = input('Play again? (y/n) ')
