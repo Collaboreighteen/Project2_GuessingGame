@@ -1,0 +1,283 @@
+[{
+	"bounds": {
+		"northeast": {
+			"lat": -33.8146729, 
+			"lng": 151.208821
+		}, 
+		"southwest": {
+			"lat": -33.8978278, 
+			"lng": 151.0012743
+		}
+	}, 
+	"copyrights": "Map data ©2018 Google", 
+	"legs": [
+		{
+			"arrival_time": {
+				"text": "11:42am", 
+				"time_zone": "Australia/Sydney", 
+				"value": 1517704944
+			}, 
+			"departure_time": {
+				"text": "11:03am", 
+				"time_zone": "Australia/Sydney", 
+				"value": 1517702593
+			}, 
+			"distance": {
+				"text": "25.2 km", 
+				"value": 25182
+			}, 
+			"duration": {
+				"text": "39 mins", 
+				"value": 2351
+			},
+			"end_address": "Parramatta NSW 2150, Australia", 
+			"end_location": {"lat": -33.8146729, 
+				"lng": 151.0012743
+			}, 
+			"start_address": "483 George St, Sydney NSW 2000, Australia", 
+			"start_location": {"lat": -33.8731872, 
+				"lng": 151.2070292
+			}, 
+			"steps": [
+				{"distance": {
+					"text": "0.1 km", 
+					"value": 107
+				}, 
+				"duration": {
+					"text": "2 mins", 
+					"value": 98
+				}, 
+				"end_location": {
+					"lat": -33.8735668, 
+					"lng": 151.2069088
+				}, 
+				"html_instructions": "Walk to Town Hall Station", 
+				"polyline": {
+					"points": "lzvmE}r{y[OA]?@Yr@JBC~@j@"
+				}, 
+				"start_location": {
+					"lat": -33.8731872, 
+					"lng": 151.2070292
+				}, 
+				"steps": [
+					{
+						"distance": {
+							"text": "25 m", 
+							"value": 25
+						}, 
+						"duration": {
+							"text": "1 min", 
+							"value": 18
+						}, 
+						"end_location": {
+							"lat": -33.8729583, 
+							"lng": 151.207043
+						}, 
+						"html_instructions": "Head <b>north</b> on <b>George St</b> toward <b>Park St</b>", 
+						"polyline": {	
+							"points": "lzvmE}r{y[OA]?"
+						}, 
+						"start_location": {
+							"lat": -33.8731872, 
+							"lng": 151.2070292
+						}, 
+						"travel_mode": "WALKING"
+					}, 
+	{"distance": {"text": "12 m", 
+		"value": 12
+	}, 
+	"duration": {"text": "1 min", 
+		"value": 13
+	}, 
+	"end_location": {"lat": -33.8729727, 
+		"lng": 151.2071669
+	}, 
+	"html_instructions": "Turn <b>right</b> onto <b>Park St</b>", 
+	"maneuver": "turn-right", 
+		"polyline": {"points": "~xvmE_s{y[@Y"
+	}, 
+	"start_location": {"lat": -33.8729583, 
+		"lng": 151.207043
+	}, 
+		"travel_mode": "WALKING"
+	}, 
+	{"distance": {"text": "30 m", 
+		"value": 30
+	}, 
+	"duration": {"text": "1 min", 
+		"value": 27
+	}, 
+	"end_location": {"lat": -33.87325, 
+		"lng": 151.20713
+	}, 
+	"html_instructions": "Turn <b>right</b>", 
+	"maneuver": "turn-right", 
+		"polyline": {"points": "`yvmEys{y[r@JBC"
+	}, 
+	"start_location": {"lat": -33.8729727, 
+		"lng": 151.2071669
+	}, 
+		"travel_mode": "WALKING"
+	}, 
+	{"distance": {"text": "40 m", 
+		"value": 40
+	}, 
+	"duration": {"text": "1 min", 
+		"value": 40
+	}, 
+	"end_location": {"lat": -33.8735668, 
+		"lng": 151.2069088
+	}, 
+	"html_instructions": "Take entrance <span class='location'>2. George St</span>", 
+		"polyline": {"points": "xzvmEqs{y[~@j@"
+	}, 
+	"start_location": {"lat": -33.87325, 
+		"lng": 151.20713
+	}, 
+	"travel_mode": "WALKING"}], 
+		"travel_mode": "WALKING"
+	}, 
+	{"distance": {"text": "24.5 km", 
+		"value": 24499
+	}, 
+	"duration": {"text": "30 mins", 
+		"value": 1818
+	}, 
+	"end_location": {"lat": -33.8175326, 
+		"lng": 151.0054527
+	}, 
+	"html_instructions": "Train towards Richmond Via Central", 
+	"polyline": {"points": "x|vmEer{y[FLbAHnAJ@?@?hDh@D?T?R?JCFAh@Kj@Uf@]b@_@b@e@LQLWLWLULUl@m@t@i@x@c@z@]d@MVI\\I~AQn@CF@hAN@?L@H?H?^Dt@LZDHBB?H@LBZF~BZv@L@@~AXd@JZHd@LLBd@NdA^PFPHb@T~A~@d@\\Sd@`@VpAbALHt@v@~@bAZ^PR^j@zAvBz@nAf@n@r@zAl@x@Xf@Xb@l@x@b@j@\\^Z\\ZZTR^Z|BbBv@j@f@`@FFFDb@`@FDJHXVNLhB~Ab@^LL^`@LJHLLNNR~@lAT\\DDh@z@`@r@r@tAj@fAHRP`@^v@l@`BVr@\\~@\\bATv@Tv@HVLf@Hb@H\\PfATxAPpAPdARbAPt@FXZpAT~@b@hBPx@BFDTJ`@DTBFNn@R~@FXFTNl@Lj@Tv@V|@Rp@Ph@j@nBRx@Nh@Ll@RfAP`A@JBJDXRv@P|@^dBDR`@rCFf@NvAL|ABp@@x@@x@@pA@|A?z@@zCAr@AZCh@GdB?F?VC|A?d@A`@Ab@Er@C`@Gh@E^CNCTI\\YlAERCJUr@Up@IX]~@Sb@O\\U`@]n@k@bA]n@KTQ^MZWt@[fAa@zAAFCH{@hDk@tBM`@i@pB[lAShAUlBKlAARClAAtA@dBBn@HtALbCLbB?F@DPpBDd@HbAHj@LzABfA@tAG|AGbAMpAIl@]lBc@xBQp@Ot@SrAGh@QnBGp@CbA?l@@nABn@HtAH|@ZjDNdBNtBFjBAv@CfBGpAMjBQxBOtAMpAUfBQz@S~@w@dDWhAYtAWjAIb@GTGT?Bu@bDU|@IZIX?BSr@GZGZ?@]xAk@fC]vAo@lCm@vBy@fCM`@[dAa@|AS|@SfAK`AIh@If@Kt@Ef@E\\C`@Cf@Ct@Ap@An@AXAfAGnBCbA?DCvABz@?NC|@AX@tAA\\Cv@En@Gn@En@OdACXGf@EZIb@EXQh@Md@Mf@Mf@ERI^St@Ml@St@S|@Mf@K`@K`@K\\Qp@Mf@K`@GXEJCFCFCJYjAG\\Mj@Op@Mp@K`@Mh@K`@GVGNKb@K`@I^IZIVAFCDIZWfAI\\Ml@Mn@Op@Mp@K`@I\\Qp@On@Kb@GPCNOj@Sx@Oj@Mf@GVGLENGTIXIRYz@KXCDADEJg@nAi@jAITOXWl@_@t@g@nA[v@GPsApDa@`AKTa@r@]h@w@hAkA`B[b@KPYb@KRkAtBOXi@z@s@bAk@v@Y^g@r@SVa@f@MP_@d@Y`@[^g@r@c@n@[d@]j@OXa@v@OX[p@Uj@]`AQf@IZCJ[xAWhAc@`CO|@SdAIj@Ip@SbBUpBMlAK|@ERETKl@QpAObAQdBYvCCVGb@Kj@Kh@St@e@zAi@tA{@jBCDc@t@QZ_@f@g@n@YXi@l@o@n@q@l@ED_@`@cAv@a@^o@n@MLW\\SRWXOPA?_@p@Yf@KPc@bAg@fAUb@MT[b@GHY\\CBWZ[Zc@`@IJSTa@f@QV[b@_@n@Wb@c@x@]l@q@pAm@dAi@dA{@~Am@hAg@`Ak@dAu@rAUd@A@Q^EFKRIPUh@g@tAMZ[|@Qb@Wt@O`@MZGTM`@Ql@U|@Mh@SdAERQr@Ib@GTK`@?FIZAFGZCNOl@Q~@UbAS`AKj@Qv@Mn@Mj@Ml@Id@Mj@GZG^GVIh@Gd@Ir@I~@Ef@Gx@A`@Cv@Ap@?|@?n@@t@Bp@Bf@Br@Fr@H|@Hv@Hx@HfAHfADz@D|@D~@Bn@Bh@Bn@@h@@l@?v@?j@CjAGdBEz@Ex@Ct@?@C\\Et@AVIp@OvA{@jEK^Gb@QvA[fBg@rESdDGtAGfCE|A?b@CnB?hB@jC@rABdCBlAHxAHhANxALfARtAHXHf@Jr@L~@JnA@T@TBt@@z@Av@CbBKhCCfAA~BB|CAfDAtA?~AGrG?DAlAA|BC|AGlBANCVAVCREb@G`@G`@Id@EPMj@w@rCSt@[hAM`@Ob@M^[v@GJKTQ^MRYj@S\\a@j@i@p@MNKLEDg@h@ONMJEDWVYPIJYRa@V_BbAuAz@]Ts@b@a@Vs@b@SLWPe@X[RkBjAqAx@uBpAgAp@_@T{@j@y@d@qAx@cAn@gAr@o@^g@X}@l@{@h@SLaAl@MHcAn@EBs@d@m@^u@d@a@Tm@`@kAt@o@`@YRiAx@_Ar@_@V[Vi@b@eA|@}@z@cAdA}@`Ag@f@MLo@n@EDA@c@b@{AzAg@h@i@j@MLWZGFq@t@e@f@UVONa@b@WXc@h@]\\EDq@v@yA|AqAxA{@~@i@l@g@h@y@z@{AzA_A~@q@r@u@t@}@v@_B`B}A`BuAbB_@d@s@z@yApB{ArB_@l@u@fAkAvBg@dA[l@]f@iAvB]p@ELYh@ABc@n@KPS`@_C|D}@bBs@tAu@vAi@~@wAlCgApBWd@mAtBA@c@l@c@p@_CrEu@~AaBlDkAxBEJg@|@EHCDY`@ML_@b@ABc@b@e@b@o@d@q@b@SJ_@PIBMDgCfAq@Tq@RmA^aDz@[FUDSDK@O?m@FgBHyBDiDMeDYcE{@oCUqBCS@aABaBFkB`@oAd@a@V]	RQLgAr@oA`Aa@\\OLMJa@\\{@`A]d@k@bANq@"
+	}, 
+	"start_location": {"lat": -33.8735668, 
+		"lng": 151.2069088
+	}, 
+	"transit_details": {"arrival_stop": {"location": {"lat": -33.8175326, 
+		"lng": 151.0054527
+	}, 
+		"name": "Parramatta"
+	}, 
+	"arrival_time": {"text": "11:35am", 
+	"time_zone": "Australia/Sydney", 
+		"value": 1517704518
+	}, 
+	"departure_stop": {"location": {"lat": -33.8735668, 
+		"lng": 151.2069088
+	}, 
+		"name": "Town Hall Station"
+	}, 
+	"departure_time": {"text": "11:05am", 
+	"time_zone": "Australia/Sydney", 
+		"value": 1517702700
+	}, 
+	"headsign": "Richmond Via Central", 
+	"line": {"agencies": [{"name": "Sydney Trains", 
+	"phone": "011 61 13 15 00", 
+	"url": "http://www.sydneytrains.info/"}], 
+	"color": "#f9a825", 
+	"name": "North Shore, Northern & Western Line", 
+	"short_name": "T1", 
+	"text_color": "#ffffff", 
+	"vehicle": {"icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png", 
+	"local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/au-sydney-rail.png", 
+	"name": "Train", 
+		"type": "HEAVY_RAIL"}
+	}, 
+		"num_stops": 6
+	}, 
+		"travel_mode": "TRANSIT"
+	}, 
+	{"distance": {"text": "0.6 km", 
+		"value": 576
+	}, 
+	"duration": {"text": "7 mins", 
+		"value": 437
+	}, 
+	"end_location": {"lat": -33.8146729, 
+		"lng": 151.0012743
+	}, 
+	"html_instructions": "Walk to Parramatta NSW 2150, Australia", 
+		"polyline": {"points": "p~kmEagtx[z@p@CBKNGJ_AhB]r@Q\\IRQf@CFEVAJEZI@E@[@E?A?A?CAAACAEGSN[NMFMDIBK@UBG@IAC?A?G?YDQBC@CBA@A@A@CBKJKFMDOBG@E?E?QACVIf@Kr@[xBSzA"
+	}, 
+	"start_location": {"lat": -33.8175326, 
+		"lng": 151.0054527
+	}, 
+	"steps": [{"distance": {"text": "0.2 km", 
+		"value": 193
+	}, 
+	"duration": {"text": "2 mins", 
+		"value": 133
+	}, 
+	"end_location": {"lat": -33.8169201, 
+		"lng": 151.0034428
+	}, 
+	"html_instructions": "Head <b>northwest</b> on <b>Liverpool-Parramatta Transitway</b> toward <b>Church St</b>", 
+		"polyline": {"points": "p~kmEagtx[z@p@CBKNGJ_AhB]r@Q\\IRQf@CFEVAJEZ"
+	}, 
+	"start_location": {"lat": -33.8175326, 
+		"lng": 151.0054527
+	}, 
+		"travel_mode": "WALKING"
+	}, 
+	{
+		"distance": {"text": "42 m", 
+			"value": 42
+		}, 
+		"duration": {"text": "1 min", 
+			"value": 26
+		}, 
+		"end_location": {"lat": -33.8165694, 
+			"lng": 151.0034844
+		}, 
+		"html_instructions": "Turn <b>right</b> onto <b>Church St</b>", 
+		"maneuver": "turn-right", 
+		"polyline": {"points": "vzkmEozsx[I@E@[@E?A?A?CAAACAEG"
+	}, 
+	"start_location": {"lat": -33.8169201, 
+		"lng": 151.0034428
+	}, 
+		"travel_mode": "WALKING"
+	}, 
+	{"distance": {"text": "0.2 km", 
+		"value": 183
+	}, 
+	"duration": {"text": "2 mins", 
+		"value": 134
+	}, 
+	"end_location": {"lat": -33.8150393, 
+		"lng": 151.0029224
+	}, 
+	"html_instructions": "Turn <b>left</b> to stay on <b>Church St</b>", 
+	"maneuver": "turn-left", 
+		"polyline": {"points": "pxkmEwzsx[SN[NMFMDIBK@UBG@IAC?A?G?YDQBC@CBA@A@A@CBKJKFMDOBG@E?E?QA"
+	}, 
+	"start_location": {"lat": -33.8165694, 
+		"lng": 151.0034844
+	}, 
+		"travel_mode": "WALKING"
+	}, 
+	{"distance": {"text": "0.2 km", 
+		"value": 158
+	}, 
+	"duration": {"text": "2 mins", 
+		"value": 144
+	}, 
+	"end_location": {"lat": -33.8146729, 
+		"lng": 151.0012743
+	}, 
+	"html_instructions": "Turn <b>left</b> onto <b>Macquarie St</b>", 
+	"maneuver": "turn-left", 
+		"polyline": {"points": "~nkmEgwsx[CVIf@Kr@[xBSzA"
+	}, 
+	"start_location": {"lat": -33.8150393, 
+		"lng": 151.0029224
+	}, 
+	"travel_mode": "WALKING"}], 
+	"travel_mode": "WALKING"}], 
+	"traffic_speed_entry": [], 
+	"via_waypoint": []}], 
+	"overview_polyline": {"points": "lzvmE}r{y[m@A@Yr@JBC~@j@FLbAHpAJjDh@Z?^Cp@Mj@Uf@]fAeAZi@Zm@z@cAt@i@x@c@`Bk@t@SnCU`BRR?tARr@J`Ft@bDp@r@PjBn@b@PbCtAd@\\Sd@rBzAbA`AzAbBhEfGf@n@r@zAfA`BfA|A`AjAv@x@t@n@tDnCn@h@~@v@vDdDdAhArBnCn@`AtAhCfBtD`CxGj@nBV~@R`Af@`Db@vCd@xB|AtGtAfGl@hCrApE~@hD\\vAj@`DjAtFf@fDV~BPnCBrBDfKO~ECbDCdAItAUnBm@jCsA~Dc@`As@pAiArB]t@e@pA}@bDmBpHw@rCo@vCa@zDE`B?zDLdC\\tFj@fGPbD@tAG|AUtCg@zCu@jDc@hCYxCKtB@|BLdCdAdMDbDCfBGpA_@dF]fDg@bDkAdFsAnGeArEi@vBc@lBwCfMgB~Fi@fBu@zC_@hCe@nDI~@G|AGbEOpGBjAEvA?rBIfBa@~D]`Cm@vBuBzI}AbGe@fBs@lDwAzFY`Ay@nDw@tDw@bD}A`GmAtDaB|DoBlEc@hAuBrFm@hAuArBmCzDqC~EaDnEcBvBaCdDy@pAq@pAk@jAs@lB[bA_@dB_BnI}@rHe@tD]~Ba@hD]nDSnA_@~Ae@zAi@tA_ApBu@pAgAvAcAfAgCdCeBvAo@n@qAxAkAjBo@tA}@jBi@x@a@f@{A|AqA`B{@rA{@|AgDjG}GlMq@vAcBrE}@hCcAvDsAlGeBrIcBnIc@zCOfBIzAEhB?lBDfBFzAd@bFRnCJxBPhEBvA?bBKpDKtBMjCKhAOvA{@jESbAm@~Dg@rESdDO|EE`CCxEJrLRbDNxA`@|CR`AXrBLdBDjA?rBOlFEfE@dIAtDKdNKjEEf@SpBe@dCuBtHaAfCeAtBu@hAw@`AiAlAeAz@c@^aCzAiElCeC|AmPdKcM|HsIlFcElCeE|CoB`BaC`CcDfDgCfCwB~BcFtFoKjLgGjGsBlB}DbEuBhCmClD{B`Du@fAkAvBcArBgB~C_AlBcE`HqEpI_D~FeBzCe@n@c@p@_CrEwClGqAdCkAnBsAxAuAhAeAn@_EbBcBh@oFzAqATO?m@FaFNiDMeDYcE{@oCUeCAcDJkB`@oAd@_Aj@yA`AqB~A]Xa@\\{@`A]d@k@bANq@z@p@ORgAtBo@pA[z@QfAq@DICIIo@^q@R]DMAu@HKH]	Xk@JWAM~@{@hG"
+	}, 
+	"summary": "", 
+	"warnings": ["Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."], 
+	"waypoint_order": []}]
