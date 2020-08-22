@@ -1,0 +1,11 @@
+print("I'm thinking of a number between 6 and 9")
+input("Press enter to continue.")
+answer = input("Guess what number I am thinking?")
+if (answer == "6.9"):
+    Print (";)")
+    (answer == "7"):
+        (print("try again!")
+         (answer == "8"):
+         (print("soz, nope")
+    else:
+        print("incorrect")
