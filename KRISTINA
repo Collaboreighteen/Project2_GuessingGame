@@ -1,16 +1,21 @@
 print("I'm thinking of a number between 1 and 1000")
+print("you've got 4 tries - GO\n")
+answer = int(input())
 number_of_tries = 3
-for i in range(number_of_tries):
-    print("you've got", number_of_tries, "tries - GO")
-    answer = int(input())
-    if (answer == 420):
-        print("SWED")
-    if(answer == 69):
-        print("yup")
-    elif(answer <= 70):
-        print("higher bitch")
-    elif(answer >= 60):
-        print("too high bitch")
-    else:
-        print("nope")
-    number_of_tries -= 1
+if (answer == 69):
+    print("yup")
+else:
+    for i in range(number_of_tries):
+        print("you've got", number_of_tries, "tries - GO")
+        answer = int(input())
+        if (answer == 420):
+            print("SWED")
+        if(answer == 69):
+            print("yup")
+        elif(answer <= 70):
+            print("higher bitch")
+        elif(answer >= 60):
+            print("too high bitch")
+        else:
+            print("nope")
+        number_of_tries -= 1
