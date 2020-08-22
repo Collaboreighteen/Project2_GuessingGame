@@ -1,11 +1,16 @@
 print("I'm thinking of a number between 6 and 9")
 input("Press enter to continue.")
-answer = input("Guess what number I am thinking?")
-if (answer == "6.9"):
-    Print (";)")
-    (answer == "7"):
-        (print("try again!")
-         (answer == "8"):
-         (print("soz, nope")
-    else:
-        print("incorrect")
+answer = input("Guess what number I am thinking?\n")
+for i in range (5):
+    if (answer == "6.9"):
+        Print (";)")
+    elif (answer == "7"):
+        print("try again!")
+    elif (answer == "8"):
+        print ("soz, nope")
+    elif (answer == "6"):
+        print ("a number BETWEEN 6 and 9")
+    elif (answer == "9"):
+        print ("no, 9 is not between 6 and 9")
+else:
+    print ("incorrect")
