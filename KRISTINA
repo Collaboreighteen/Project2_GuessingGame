@@ -1,12 +1,13 @@
 print("I'm thinking of a number between 1 and 1000")
-answer = input
-if (answer == "420"):
-print("SWED")
-if(answer == "69"):
-print("yup")
-if(answer =< 68):
-print("higher bitch")
-if(answer => 60):
-print("too high bitch")
-else:
-print("nope")
+for i in range (3):
+    answer = int(input("you've got three tries - GO\n"))
+    if (answer == 420):
+        print("SWED")
+    if(answer == 69):
+        print("yup")
+    elif(answer <= 70):
+        print("higher bitch")
+    elif(answer >= 60):
+        print("too high bitch")
+    else:
+        print("nope")
