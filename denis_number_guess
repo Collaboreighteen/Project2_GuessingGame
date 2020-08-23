@@ -1,0 +1,25 @@
+import os
+import random
+print ("DO YOU WANT TO PLAY A GAME?" "\n")
+firstq = True
+while (firstq == True):
+    answera = input ("yes or no??? \n")
+    if (answera == "yes"):
+        print("That's correct. Good job. Let's begin.")
+        firstq = False
+    else:
+        print("not how this works. you're playing anyway." "\n" "I'll ask you again: do you want to play a game??")
+number1 = 1
+number2 = 500
+print("Guess a number between ", number1, "and ", number2, "... if you dare... \n")
+count = 3
+corrans = 233
+while (count > 0):
+    answerb = input ()
+    if (answerb == corrans):
+        print ("... \n", "I didn't think you'd get that, but yeah, that was the right number.")
+        count = 0
+    else:
+        count -= 1
+        print("HAHAHAAHAHAHAAAA!!!!!!! hoo boy, was that ever WRONG!", "\n", "Come on, have another go. I'll give you", count, "more tries.")
+print("Better luck next time. 'Game Over' I guess.")
